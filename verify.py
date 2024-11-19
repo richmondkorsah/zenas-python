@@ -2,11 +2,10 @@
 
 def verify(age):
     if age > 18:
-        return "You are an adult" # Run from Diddy
+        return "You are an adult"
     else:
-        return "You are a minor" # If you are a girl run from Drake
+        return "You are a minor"
         
-# Typeshii - E 
 age = int(input("Enter your age: "))
 
 print(f"You are {age} years old. {verify(age)}.")
