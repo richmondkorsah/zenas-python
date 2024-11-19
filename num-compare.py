@@ -6,7 +6,6 @@ def num_compare(num1, num2):
     elif num2 > num1:
         return f"{num2} is greater than {num1}"
     
-# Typeshii - D    
 
 try:
     num1 = float(input("Enter the first number: "))
