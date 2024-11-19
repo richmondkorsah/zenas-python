@@ -9,7 +9,6 @@ def pass_fail(marks, min, max):
 min = 0
 max = 100
 
-# Typeshii - L
 marks = int(input("Enter your marks: "))
 
 print(f"You scored {marks}. It is a {pass_fail(marks, min, max)}.")
