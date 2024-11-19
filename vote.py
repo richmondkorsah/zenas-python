@@ -9,7 +9,6 @@ def vote(age):
         return "You are not eligible to vote" # Vote for The New Force in 2026
     
 
-# Typeshii - A
 age = int(input("Enter your age: "))
 
 print(f"You are {age} years old. {vote(age)}.")
