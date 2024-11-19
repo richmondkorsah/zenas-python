@@ -6,6 +6,5 @@ def even_odd(number):
     else:
         return "odd"
 
-# Typeshii - A 
 number = int(input("Enter a number: "))
 print(f"Your number {number} is {even_odd(number)}")
