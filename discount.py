@@ -6,7 +6,6 @@ def discount(age):
     else:
         return "No discount available" # Pay with your pension money
         
-# Typeshii - R 
 age = int(input("Enter your age: "))
 
 print(f"You are {age} years old. {discount(age)}.")
