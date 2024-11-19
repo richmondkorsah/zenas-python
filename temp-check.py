@@ -8,7 +8,6 @@ def temp_check(temp):
     else:
         return "It's Cold"
     
-# Typeshii - X
 temp = float(input("Enter the temperature: "))
 
 print(f"The temperature is {temp}. {temp_check(temp)}")
