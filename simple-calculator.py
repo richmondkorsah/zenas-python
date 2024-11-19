@@ -42,5 +42,4 @@ def calculator():
     except ValueError:
         print("Invalid input! Please enter numbers only.")
 
-# Typeshii - A
 calculator()
